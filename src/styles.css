@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sa {
+    background-image: url(/public/img/s1-bg.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}   
+
+.mw {
+    max-width: 1128px;
+}
+
+.paterr {
+    background-image: url(/public/img/ii.bg.svg);
+    background-size: cover;
+    background-position: center;
+}
